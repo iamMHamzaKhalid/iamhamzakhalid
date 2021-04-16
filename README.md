@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamhamzakhalid
 - 👀 I’m interested in web and Mobile Application development
-- 🌱 I’m currently learning reactJs
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on reactjs project
 - 📫 How to reach me iamhamzakhalid@outlook.com
 
